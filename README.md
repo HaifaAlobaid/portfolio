@@ -1,11 +1,30 @@
-# Haifa Alobaid — Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
-Updated with 18 curated hands-on lab case studies, preserving the existing major project library, publications, contact details and design.
+My personal portfolio showcasing projects, research, and hands-on experience in cybersecurity and digital forensics.
 
-## Publish to GitHub Pages
-Upload **index.html, styles.css, script.js, README.md** directly to the root of the public `portfolio` repository. GitHub Pages should be set to `main` / `(root)`.
+**Live website:** https://haifaalobaid.github.io/portfolio/
 
-## Privacy and accuracy
-Individual coursework was summarized rather than attaching source lab reports. No student identifiers, exploit targets, raw traffic files or institutional personal data are published. Group exercises are identified as potentially collaborative. Review public GitHub repositories before linking them.
+## About
 
-This edition presents hands-on technical experience without per-lab academic evidence references or academic disclaimers. Original reports are not included.
+I'm a Cybersecurity and Digital Forensics graduate with interests in network security, digital forensics, OT/ICS security, penetration testing, and cryptography. This website brings together my technical projects, published research, practical experience, and professional background.
+
+## Website
+
+The portfolio includes:
+
+- Projects and technical tools, including OPSight, DiskBerry, RogueLink, and PassiveLLM
+- Research and publications in network security and post-quantum cryptography
+- Practical experience with security testing, system administration, network monitoring, digital forensics, and reverse engineering
+- Education, experience, certifications, and contact information
+
+## Built With
+
+HTML, CSS, and JavaScript. Hosted on GitHub Pages.
+
+## Run Locally
+
+Clone this repository and open `index.html` in your browser. No installation or build process is required.
+
+## Contact
+
+GitHub: https://github.com/HaifaAlobaid
